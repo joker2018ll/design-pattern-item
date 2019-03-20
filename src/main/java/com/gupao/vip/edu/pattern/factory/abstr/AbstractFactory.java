@@ -1,6 +1,6 @@
-package com.gupao.vip.edu.factory.abstr;
+package com.gupao.vip.edu.pattern.factory.abstr;
 
-import com.gupao.vip.edu.factory.Milk;
+import com.gupao.vip.edu.pattern.factory.Milk;
 
 /**
  * #ClassName AbstractFactory

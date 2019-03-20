@@ -1,4 +1,4 @@
-package com.gupao.vip.edu.factory;
+package com.gupao.vip.edu.pattern.factory;
 
 /**
  * #ClassName YiLi

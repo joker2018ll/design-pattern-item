@@ -1,4 +1,4 @@
-package com.gupao.vip.edu.factory.func;
+package com.gupao.vip.edu.pattern.factory.func;
 
 /**
  * #ClassName FactoryTest

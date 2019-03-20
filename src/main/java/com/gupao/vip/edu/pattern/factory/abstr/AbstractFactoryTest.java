@@ -1,4 +1,4 @@
-package com.gupao.vip.edu.factory.abstr;
+package com.gupao.vip.edu.pattern.factory.abstr;
 
 /**
  * #ClassName AbstractFactoryTest

@@ -1,7 +1,7 @@
-package com.gupao.vip.edu.factory.func;
+package com.gupao.vip.edu.pattern.factory.func;
 
-import com.gupao.vip.edu.factory.Milk;
-import com.gupao.vip.edu.factory.TeLunSu;
+import com.gupao.vip.edu.pattern.factory.Milk;
+import com.gupao.vip.edu.pattern.factory.TeLunSu;
 
 /**
  * #ClassName TeLunSuFactory
